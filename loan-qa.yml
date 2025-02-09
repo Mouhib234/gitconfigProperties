@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loan:
-  message: "Welcome to EazyBank loans related Quality APIs "
+  message: "Welcome to EazyBank loans related test web hook APIs "
   contactDetails:
     name: "Cyrano Marita - QA Lead"
     email: "{cipher}f4b4c2f0a699515ddab35e08405be78911f355363160eaf6f665663eb17064cb080b65813df015fa78dc4cc2d17e6de7"
